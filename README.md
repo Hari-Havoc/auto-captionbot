@@ -55,11 +55,11 @@ Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
 
 ## My Channel
 
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
+<b>[@a2zmovies001](https://telegram.me/a2zmovies001)</b>
 
 
 ### Thanks to
 
 <i>❤️ Thanks to everyone in this journey</i> 
 
-<i>🥰 Thanks to [Anonymous](https://telegram.me/Ns-AnoNymouS) for helping me in all the ways</i> 
+<i>🥰 Thanks to [A2ZMOVIES](https://telegram.me/A2Z_MOVIES01) for helping me in all the ways</i> 
