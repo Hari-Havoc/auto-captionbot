@@ -6,11 +6,11 @@ class Translation(object):
 😃 Hai {},
 
 I am a simple auto caption bot
-I can automatically add pre-setted caption to the files in channels
+Exclusively Made For @A2ZMOVIESTAMIL
 
 I am currently working for a channel if you want to use me, Use my source code and Deploy me
 
-⚜️ Maintained By 👉 @{}
+⚜️ Maintained By 👉 @A2Z_MOVIES01{}
 """    
 
       HELP_TEXT = """
@@ -38,7 +38,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 📕 --𝐀𝐛𝐨𝐮𝐭-- --𝐌𝐞--
 
 
-○ ᴍʏ ɴᴀᴍᴇ : [Auto Caption | Ts Bots](https://t.me/Anylink_Movies)
+○ ᴍʏ ɴᴀᴍᴇ : [Auto Caption | A2ZMOVIES](https://t.me/A2ZV12)
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -48,16 +48,16 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 ○ ᴠᴇʀsɪᴏɴ : 1.1.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/Hari-Havoc/auto-captionbot)
 
 ○ ᴄʀᴇᴀᴛᴏʀ :  [ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ](https://t.me/trackstudio)
  
 __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀɴᴅ ᴛʜɪs ɪs ᴍʏ ғɪʀsᴛ ᴛɪᴍᴇ ɪ ᴀᴍ ɢɪᴠɪɴɢ ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ʙᴏᴛ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ ᴡʜɪᴄʜ ᴡᴀs ᴡʀɪᴛᴇʀ ɪɴ ᴍʏ ᴏᴡɴ ʜᴀɴᴅs, sᴏ ɪғ ᴀɴʏ ʙᴜɢs ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sᴀʏ
 ɪᴛ ᴍᴀʏ ʙᴇ ɴᴏᴛ ᴛʜᴇ ʙᴇsᴛ ʙᴜᴛ ғᴏʀ ᴍᴇ ɪᴛ ɪs ᴛʜᴇ ʙᴇsᴛ 🥰
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴍʏ ʙᴇʟᴏᴠᴇᴅ ғʀɪᴇɴᴅ [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/Anoymous_Ns)__
+ᴛʜᴀɴᴋs ᴛᴏ ᴍʏ ʙᴇʟᴏᴠᴇᴅ ғʀɪᴇɴᴅ [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/A2Z_MOVIES01)__
 
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/ts_bots)**
+**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/A2ZMOVIESTAMIL)**
 
 """
 
