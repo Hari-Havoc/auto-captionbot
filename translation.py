@@ -28,7 +28,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 👉 Forward your files in your channel and I will edit it
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/A2ZMOVIESTAMIL">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
 """    
               
 
@@ -80,9 +80,9 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 👉 <b>Hyperlink text</b>
 
-📌 <code>[hyperlink_text](https://t.me/Ts_bots)</code> 
+📌 <code>[hyperlink_text](https://t.me/A2ZMOVIESTAMIL)</code> 
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/A2ZMOVIESTAMIL">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
 
 """
 
@@ -98,7 +98,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/A2ZMOVIESTAMIL">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
 
 """
 
@@ -108,6 +108,6 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 Only my admin can see my status, if you want this bot you can take my source code and deploy it. 
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+<b><a href="https://t.me/A2ZMOVIESTAMIL">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
 
 """
